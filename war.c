@@ -61,7 +61,6 @@ int main() {
             territorios[i].cor[sizeof(territorios[i].cor) - 1] = '\0';
             break;
         }
-
         // -------- TROPAS --------
         while (1) {
             printf("Digite a quantidade de tropas: ");
